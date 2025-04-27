@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hello there!  
+#### A Python Backend Developer by day ☀️ and a Generative AI Enthusiast by night 🌙
 
-<!--
-**droideronline/droideronline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **Generative AI Developer:** Building intelligent applications using LangChain and LangGraph at [EPAM Systems](https://www.epam.com).  
+🛠️ **Backend Engineer:** Crafting scalable APIs with FastAPI and Flask.  
+⚙️ **Task Management:** Implementing asynchronous task queues with Celery.  
+🧩 **Data Modeling:** Utilizing Pydantic for data validation and Alembic for database migrations.  
+🐳 **DevOps Practitioner:** Containerizing applications with Docker and deploying on Azure and AWS.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Technologies & Tools**  
+``Python • FastAPI • Flask • LangChain • LangGraph • Celery • Pydantic • Alembic • Docker • Azure • AWS • Git``  
+
+---
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dinesh106)
+
