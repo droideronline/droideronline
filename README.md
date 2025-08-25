@@ -10,7 +10,7 @@
 ---
 
 🔧 **Technologies & Tools**  
-``Python • FastAPI • Flask • LangChain • LangGraph • Celery • Pydantic • Alembic • Docker • Azure • AWS • Git``  
+``Python • FastAPI • Flask • LangChain • LangGraph • AutoGen • Celery • Pydantic • Alembic • Docker • Azure • AWS • Git``  
 
 ---
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dinesh106)
